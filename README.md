@@ -10,3 +10,7 @@ This document provides an overview of the WeatherApp, a basic JavaScript applica
 - **Hourly Forecasts**: Provides hourly predictions for the next 48 hours, including temperature, precipitation chances, and wind direction.
 - **Daily Forecasts**: Offers a comprehensive outlook for the upcoming week, detailing expected temperatures, rainfall amounts, and sunshine duration.
 - **Search Feature**: Allows users to search for weather data by entering the name of any U.S. city. The app leverages the Open-Cage and Geocoding API's to convert city names into geographic coordinates, enabling accurate weather data retrieval.
+
+![Weather-App UI](https://i.imgur.com/YJub0q4.png)
+
+
